@@ -1,0 +1,15 @@
+{
+  "name": "borte-messenger",
+  "version": "1.0.0",
+  "description": "Börte Messenger - 55Ghada Studios",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "latest",
+    "mongodb": "latest",
+    "mongoose": "latest",
+    "socket.io": "^4.8.3"
+  }
+}
